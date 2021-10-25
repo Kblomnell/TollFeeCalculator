@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sim", "Sim\Sim.csproj", "{D5E2CCA7-BE76-4237-9797-B9C2AC9F43C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FeeCalculator", "FeeCalculator\FeeCalculator.csproj", "{A58159D9-3002-49F2-82E6-58AB38CAACEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5E2CCA7-BE76-4237-9797-B9C2AC9F43C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5E2CCA7-BE76-4237-9797-B9C2AC9F43C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5E2CCA7-BE76-4237-9797-B9C2AC9F43C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5E2CCA7-BE76-4237-9797-B9C2AC9F43C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A58159D9-3002-49F2-82E6-58AB38CAACEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A58159D9-3002-49F2-82E6-58AB38CAACEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A58159D9-3002-49F2-82E6-58AB38CAACEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A58159D9-3002-49F2-82E6-58AB38CAACEC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A2CD8F56-E471-4AA9-9BED-95F8DBFAE171}
+	EndGlobalSection
+EndGlobal
